@@ -5,7 +5,7 @@
 #include "can.h"
 
 
-#define KP 15.0F
+#define KP 17.0F
 #define KI 0.01F
 #define KD 0.01F
 #define IOUT_MAX 1200.0F
